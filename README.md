@@ -181,5 +181,5 @@ A simple URL shortener API built using Node.js, Express, and MongoDB. The API al
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/url-shortener-api.git
+git clone https://github.com/Vikasvs91/url-shortener-api.git
 cd url-shortener-api
